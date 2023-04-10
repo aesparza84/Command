@@ -1,0 +1,15 @@
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Workspace\GitCLone\Command\Command\bin\Debug\net6.0\Command.exe
+C:\Workspace\GitCLone\Command\Command\bin\Debug\net6.0\Command.deps.json
+C:\Workspace\GitCLone\Command\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Workspace\GitCLone\Command\Command\bin\Debug\net6.0\Command.dll
+C:\Workspace\GitCLone\Command\Command\bin\Debug\net6.0\Command.pdb
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.dll
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.pdb
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Workspace\GitCLone\Command\Command\obj\Debug\net6.0\ref\Command.dll
